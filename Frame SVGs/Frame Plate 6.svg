@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg14307"
+   version="1.1"
+   height="1122.51968504"
+   width="793.700787402">
+  <metadata
+     id="metadata14311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <desc
+     id="desc14279">C:\Users\Jack\Desktop\Robot\DXF 2\Frame Plate 6.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs14293">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path14281"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path14284"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path14286"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path14288"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     id="g14305">
+    <path
+       id="path14295"
+       style="fill:none;stroke:#000000"
+       d="m 161.17826,51.017249 a 94.488189,94.488189 0 0 1 94.48819,94.488191 v 13.6063 a 94.488189,94.488189 0 0 1 -94.48819,94.48819 h -19.22439 v 11.33858 h -15.11811 v -11.33858 h -18.29292 v -11.33859 h 4.15748 v -9.44881 h -4.15748 V 219.58418 H 96.070397 v 13.22835 h -4.157481 v 9.44881 h 4.157481 v 11.33859 H 77.777476 v 11.33858 H 62.659366 V 253.59993 H 55.10031 V 51.017249 h 7.559056 V 39.678667 h 15.11811 v 11.338582 h 18.292921 v 11.338583 h -4.157481 v 9.448819 h 4.157481 V 85.032997 H 108.54284 V 71.804651 h 4.15748 v -9.448819 h -4.15748 V 51.017249 h 18.29292 V 39.678667 h 15.11811 v 11.338582 z" />
+    <path
+       id="path14297"
+       style="fill:none;stroke:#000000"
+       d="m 235.06802,152.30859 a 5.858268,5.858268 0 1 0 -11.71653,0 5.858268,5.858268 0 1 0 11.71653,0 z" />
+    <path
+       id="path14299"
+       style="fill:none;stroke:#000000"
+       d="m 75.00503,128.86836 v 48.37795 h 88.06299 v -48.37795 z" />
+    <path
+       id="path14301"
+       style="fill:none;stroke:#000000"
+       d="m 175.91842,153.43529 a 4.346457,4.346457 0 1 0 -8.69292,0 4.346457,4.346457 0 1 0 8.69292,0 z" />
+    <path
+       id="path14303"
+       style="fill:none;stroke:#000000"
+       d="m 70.091645,153.43529 a 4.346457,4.346457 0 1 0 -8.692914,0 4.346457,4.346457 0 1 0 8.692914,0 z" />
+  </g>
+</svg>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg18943"
+   version="1.1"
+   height="1122.51968504"
+   width="793.700787402">
+  <metadata
+     id="metadata18947">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <desc
+     id="desc18911">C:\Users\Jack\Desktop\Robot\DXF 2\Neck Holder Frame.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs18925">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path18913"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path18916"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path18918"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path18920"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     id="g18941">
+    <path
+       id="path18927"
+       style="fill:none;stroke:#000000"
+       d="m 243.44839,111.52742 a 15.11811,15.11811 0 0 1 -15.11811,15.11811 h -75.5128 A 15.11811,15.11811 0 0 1 137.69937,111.52742 V 97.354196 H 46.99071 A 15.11811,15.11811 0 0 1 31.8726,82.236085 V 38.771518 a 15.11811,15.11811 0 0 1 15.11811,-15.11811 h 181.33957 a 15.11811,15.11811 0 0 1 15.11811,15.11811 z" />
+    <path
+       id="path18929"
+       style="fill:none;stroke:#000000"
+       d="m 227.00744,41.526797 a 6.2362205,6.2362205 0 1 0 -12.47244,0 6.2362205,6.2362205 0 1 0 12.47244,0 z" />
+    <path
+       id="path18931"
+       style="fill:none;stroke:#000000"
+       d="m 162.75547,112.18481 a 6.2362205,6.2362205 0 1 0 -12.47244,0 6.2362205,6.2362205 0 1 0 12.47244,0 z" />
+    <path
+       id="path18933"
+       style="fill:none;stroke:#000000"
+       d="m 227.00744,80.339184 a 6.2362205,6.2362205 0 1 0 -12.47244,0 6.2362205,6.2362205 0 1 0 12.47244,0 z" />
+    <path
+       id="path18935"
+       style="fill:none;stroke:#000000"
+       d="m 200.55075,112.18481 a 6.2362205,6.2362205 0 1 0 -12.47244,0 6.2362205,6.2362205 0 1 0 12.47244,0 z" />
+    <path
+       id="path18937"
+       style="fill:none;stroke:#000000"
+       d="m 60.785985,80.339184 a 6.2362205,6.2362205 0 1 0 -12.472441,0 6.2362205,6.2362205 0 1 0 12.472441,0 z" />
+    <path
+       id="path18939"
+       style="fill:none;stroke:#000000"
+       d="m 60.785985,41.526797 a 6.2362205,6.2362205 0 1 0 -12.472441,0 6.2362205,6.2362205 0 1 0 12.472441,0 z" />
+  </g>
+</svg>
